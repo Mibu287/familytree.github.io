@@ -146,10 +146,10 @@
   {
     "id": "9",
     "rels": {
-      "spouses": [],
+      "spouses": ["16"],
       "father": "4",
       "mother": "8",
-      "children": []
+      "children": ["17", "18"]
     },
     "data": {
       "first name": "Nhật Minh",
@@ -251,6 +251,54 @@
       "first name": "Lê Vi",
       "last name": "Trần",
       "birthday": "2019",
+      "avatar": "assets/female.jpg",
+      "gender": "F"
+    }
+  },
+  {
+    "id": "16",
+    "rels": {
+      "spouses": ["9"],
+      "father": "",
+      "mother": "",
+      "children": ["17", "18"]
+    },
+    "data": {
+      "first name": "Lâm Anh",
+      "last name": "Diệp",
+      "birthday": "1998",
+      "avatar": "assets/female.jpg",
+      "gender": "F"
+    }
+  },
+  {
+    "id": "17",
+    "rels": {
+      "spouses": [],
+      "father": "9",
+      "mother": "16",
+      "children": []
+    },
+    "data": {
+      "first name": "Nhật Nam",
+      "last name": "Trần",
+      "birthday": "2022",
+      "avatar": "assets/male.jpg",
+      "gender": "M"
+    }
+  },
+  {
+    "id": "18",
+    "rels": {
+      "spouses": [],
+      "father": "9",
+      "mother": "16",
+      "children": []
+    },
+    "data": {
+      "first name": "Diệu Hằng",
+      "last name": "Trần",
+      "birthday": "2024",
       "avatar": "assets/female.jpg",
       "gender": "F"
     }
