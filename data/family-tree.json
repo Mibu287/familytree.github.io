@@ -165,7 +165,7 @@
       "spouses": [],
       "father": "4",
       "mother": "8",
-      "children": []
+      "children": ["19"]
     },
     "data": {
       "first name": "Thái Hà",
@@ -297,6 +297,22 @@
     },
     "data": {
       "first name": "Diệu Hằng",
+      "last name": "Trần",
+      "birthday": "2024",
+      "avatar": "assets/female.jpg",
+      "gender": "F"
+    }
+  },
+  {
+    "id": "19",
+    "rels": {
+      "spouses": [],
+      "father": "",
+      "mother": "10",
+      "children": []
+    },
+    "data": {
+      "first name": "Diệu Thuý",
       "last name": "Trần",
       "birthday": "2024",
       "avatar": "assets/female.jpg",
