@@ -103,7 +103,7 @@
           .append("input")
           .attr("style", "width: 100%;")
           .attr("type", "text")
-          .attr("placeholder", "Search")
+          .attr("placeholder", "Tìm kiếm")
           .on("focus", activateDropdown)
           .on("input", activateDropdown);
 
@@ -119,7 +119,7 @@
           });
 
         function activateDropdown() {
-          const search_input_value = search_input.property("value");
+          const search_input_value = search_input.property("last name");
           const filtered_options = all_select_options.filter((d) =>
             d.label.toLowerCase().includes(search_input_value.toLowerCase())
           );
