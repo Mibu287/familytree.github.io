@@ -24,7 +24,7 @@
       "
     ></div>
     <script type="module">
-      fetch("/data/family-tree.json")
+      fetch("/familytree/data/family-tree.json")
         .then((res) => res.json())
         .then((data) => create(data))
         .catch((err) => console.error(err));
