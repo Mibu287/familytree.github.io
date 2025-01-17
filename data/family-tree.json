@@ -37,7 +37,7 @@
       "spouses": ["5", "20"],
       "father": "0",
       "mother": "1",
-      "children": ["6", "7"]
+      "children": ["6", "7", "21"]
     },
     "data": {
       "first name": "Minh Hải",
@@ -331,7 +331,7 @@
       "first name": "Thanh Phượng",
       "last name": "Vũ",
       "birthday": "1968",
-      "avatar": "assets/female.jpg",
+      "avatar": "assets/male.jpg",
       "gender": "F"
     }
   },
