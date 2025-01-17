@@ -350,5 +350,37 @@
       "avatar": "assets/male.jpg",
       "gender": "M"
     }
+  },
+  {
+    "id": "22",
+    "rels": {
+      "spouses": ["23"],
+      "father": "",
+      "mother": "3",
+      "children": []
+    },
+    "data": {
+      "first name": "Văn Chiến",
+      "last name": "Trần",
+      "birthday": "1999",
+      "avatar": "assets/male.jpg",
+      "gender": "M"
+    }
+  },
+  {
+    "id": "23",
+    "rels": {
+      "spouses": ["22"],
+      "father": "",
+      "mother": "",
+      "children": []
+    },
+    "data": {
+      "first name": "Mai Hương",
+      "last name": "Văn",
+      "birthday": "2000",
+      "avatar": "assets/female.jpg",
+      "gender": "F"
+    }
   }
 ]
