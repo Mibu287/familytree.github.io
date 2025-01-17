@@ -51,7 +51,10 @@
             img_x: 5,
             img_y: 5,
           },
-          card_display: [(d) => `${d.data["label"]}`, (d) => d.data["desc"]],
+          card_display: [
+            (d) => `${d.data["last name"]} ${d.data["first name"]}`,
+            (d) => d.data["birthday"],
+          ],
           mini_tree: true,
           link_break: false,
         });
@@ -59,7 +62,7 @@
         store.setOnUpdate((props) =>
           f3.view(store.getTree(), svg, Card, props || {})
         );
-        store.updateMainId("Q43274"); // Charles III
+        store.updateMainId("0");
         store.updateTree({ initial: true });
 
         // with person_id this function will update the tree
