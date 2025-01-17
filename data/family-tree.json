@@ -11,7 +11,7 @@
       "first name": "Xuân Mạnh",
       "last name": "Trần",
       "birthday": "1930",
-      "avatar": "familytree/assets/male.jpg",
+      "avatar": "assets/male.jpg",
       "gender": "M"
     }
   },
@@ -27,7 +27,7 @@
       "first name": "Ngọc Lan",
       "last name": "Phạm",
       "birthday": "1935",
-      "avatar": "familytree/assets/female.jpg",
+      "avatar": "assets/female.jpg",
       "gender": "F"
     }
   },
@@ -43,7 +43,7 @@
       "first name": "Minh Hải",
       "last name": "Trần",
       "birthday": "1960",
-      "avatar": "familytree/assets/male.jpg",
+      "avatar": "assets/male.jpg",
       "gender": "M"
     }
   },
@@ -59,7 +59,7 @@
       "first name": "Hồng Hoa",
       "last name": "Trần",
       "birthday": "1965",
-      "avatar": "familytree/assets/female.jpg",
+      "avatar": "assets/female.jpg",
       "gender": "F"
     }
   },
@@ -75,7 +75,7 @@
       "first name": "Thanh Phát",
       "last name": "Trần",
       "birthday": "1962",
-      "avatar": "familytree/assets/male.jpg",
+      "avatar": "assets/male.jpg",
       "gender": "M"
     }
   },
@@ -91,7 +91,7 @@
       "first name": "Mai Anh",
       "last name": "Nguyễn",
       "birthday": "1962",
-      "avatar": "familytree/assets/female.jpg",
+      "avatar": "assets/female.jpg",
       "gender": "F"
     }
   },
@@ -107,7 +107,7 @@
       "first name": "Quốc Duy",
       "last name": "Trần",
       "birthday": "1985",
-      "avatar": "familytree/assets/male.jpg",
+      "avatar": "assets/male.jpg",
       "gender": "M"
     }
   },
@@ -123,7 +123,7 @@
       "first name": "Bảo Ngân",
       "last name": "Trần",
       "birthday": "1987",
-      "avatar": "familytree/assets/female.jpg",
+      "avatar": "assets/female.jpg",
       "gender": "F"
     }
   },
@@ -139,7 +139,7 @@
       "first name": "Diệp Vân",
       "last name": "Nguyễn",
       "birthday": "1965",
-      "avatar": "familytree/assets/female.jpg",
+      "avatar": "assets/female.jpg",
       "gender": "F"
     }
   },
@@ -155,7 +155,7 @@
       "first name": "Nhật Minh",
       "last name": "Trần",
       "birthday": "1990",
-      "avatar": "familytree/assets/male.jpg",
+      "avatar": "assets/male.jpg",
       "gender": "M"
     }
   },
@@ -171,7 +171,7 @@
       "first name": "Thái Hà",
       "last name": "Trần",
       "birthday": "1993",
-      "avatar": "familytree/assets/female.jpg",
+      "avatar": "assets/female.jpg",
       "gender": "F"
     }
   },
@@ -187,7 +187,7 @@
       "first name": "Minh Quân",
       "last name": "Trần",
       "birthday": "1995",
-      "avatar": "familytree/assets/male.jpg",
+      "avatar": "assets/male.jpg",
       "gender": "M"
     }
   }
