@@ -318,5 +318,37 @@
       "avatar": "assets/female.jpg",
       "gender": "F"
     }
+  },
+  {
+    "id": "20",
+    "rels": {
+      "spouses": ["2"],
+      "father": "",
+      "mother": "",
+      "children": ["21"]
+    },
+    "data": {
+      "first name": "Thanh Phượng",
+      "last name": "Vũ",
+      "birthday": "1968",
+      "avatar": "assets/male.jpg",
+      "gender": "M"
+    }
+  },
+  {
+    "id": "21",
+    "rels": {
+      "spouses": [],
+      "father": "2",
+      "mother": "20",
+      "children": []
+    },
+    "data": {
+      "first name": "Nam Phong",
+      "last name": "Trần",
+      "birthday": "2000",
+      "avatar": "assets/male.jpg",
+      "gender": "M"
+    }
   }
 ]
