@@ -34,7 +34,7 @@
   {
     "id": "2",
     "rels": {
-      "spouses": ["5"],
+      "spouses": ["5", "20"],
       "father": "0",
       "mother": "1",
       "children": ["6", "7"]
