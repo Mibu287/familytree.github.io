@@ -162,7 +162,7 @@
   {
     "id": "10",
     "rels": {
-      "spouses": [],
+      "spouses": null,
       "father": "4",
       "mother": "8",
       "children": ["19"]
@@ -306,8 +306,8 @@
   {
     "id": "19",
     "rels": {
-      "spouses": [],
-      "father": "",
+      "spouses": null,
+      "father": null,
       "mother": "10",
       "children": []
     },
